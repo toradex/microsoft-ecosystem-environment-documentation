@@ -37,7 +37,7 @@ The device list will be empty on first execution of the tool but if you have a T
 
 #### Add serial device
 
-If you have a Toradex EVB you can connect UARTA of your module via serial connector or via the FTDI USB to serial converter that is on the board, this can be configured using jumpers, please check reference manual of your EVB to get specific information.  
+If you have a Toradex EVB you can connect UARTA of your module via serial connector or via the FTDI USB to serial converter that is on the board, this can be configured using jumpers, please [watch this short video tutorial](https://www.youtube.com/watch?v=9IFUYdwotY8) or check reference manual of your EVB to get specific information.  
 
 By clicking on the serial port icon you will be able to select the serial port and insert the credentials that will be used to configure the device over serial console. Username "torizon" and password "torizon" should work on a freshly installed image of Torizon.  
 ![Torizon serial device](screenshots/addserialdevice.png)  
